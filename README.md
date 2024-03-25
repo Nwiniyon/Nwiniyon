@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning AICE with ALX and Data Analytics with She Code Africa
 - 💞️ I’m looking to collaborate on data cleaning and processing
 - 📫 How to reach me ... Leave a message 
-- 😄 Pronouns: She
+- 😄 Pronouns: She/Her
 - ⚡ Fun fact: I love to crochet and read.
 
 <!---
